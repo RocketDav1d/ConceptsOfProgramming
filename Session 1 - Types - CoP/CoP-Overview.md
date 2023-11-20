@@ -1,18 +1,3 @@
----
-title: 'CoP Basics'
-customTheme : 'leagueFabio'
-highlightTheme: 'monokai' 
-transition: 'slide'
-transitionSpeed: 'fast'
-center: true
-slideNumber: true
-navigationMode: 'linear'
-controls: false
-width: 1920
-height: 1080
-defaultTiming: 52
-
----
 
 # Concepts of Programming
 
